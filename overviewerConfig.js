@@ -23,11 +23,12 @@ var overviewerConfig = {
         "LOWERRIGHT": 2
     },
     "worlds": [
-        "Minekeller"
+        "Minekeller",
+        "MinekellerNether - nether"
     ],
     "map": {
         "debug": false,
-        "cacheTag": "1634340483",
+        "cacheTag": "1634423927",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -49,7 +50,7 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "Minekeller",
-            "last_rendertime": 1634340332,
+            "last_rendertime": 1634423756,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",
@@ -65,6 +66,29 @@ var overviewerConfig = {
                 80,
                 -240
             ],
+            "north_direction": 0
+        },
+        {
+            "name": "Nether",
+            "zoomLevels": 8,
+            "defaultZoom": 1,
+            "maxZoom": 8,
+            "path": "nether",
+            "base": "",
+            "bgcolor": "#1a1a1a",
+            "world": "MinekellerNether - nether",
+            "last_rendertime": 1634423756,
+            "imgextension": "png",
+            "isOverlay": false,
+            "poititle": "Markers",
+            "showlocationmarker": true,
+            "center": [
+                0,
+                64,
+                0
+            ],
+            "minZoom": 0,
+            "spawn": false,
             "north_direction": 0
         }
     ]

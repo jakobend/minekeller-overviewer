@@ -28,7 +28,7 @@ var overviewerConfig = {
     ],
     "map": {
         "debug": false,
-        "cacheTag": "1634507640",
+        "cacheTag": "1634645166",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -50,7 +50,7 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "Minekeller",
-            "last_rendertime": 1634505345,
+            "last_rendertime": 1634594958,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",
@@ -77,7 +77,7 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "MinekellerNether - nether",
-            "last_rendertime": 1634507416,
+            "last_rendertime": 1634588058,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",
